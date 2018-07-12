@@ -94,6 +94,7 @@ a:hover {
 
 .navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
+    box-shadow: 0px 1px 5px dimgrey;
 }
 
 footer {
